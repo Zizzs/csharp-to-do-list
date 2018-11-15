@@ -1,0 +1,7 @@
+C:\Users\Kingslayer\Desktop\ToDoList.Solution\ToDoList\bin\Debug\netcoreapp1.1\ToDoList.deps.json
+C:\Users\Kingslayer\Desktop\ToDoList.Solution\ToDoList\bin\Debug\netcoreapp1.1\ToDoList.dll
+C:\Users\Kingslayer\Desktop\ToDoList.Solution\ToDoList\bin\Debug\netcoreapp1.1\ToDoList.pdb
+C:\Users\Kingslayer\Desktop\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\Kingslayer\Desktop\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.AssemblyInfo.cs
+C:\Users\Kingslayer\Desktop\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.dll
+C:\Users\Kingslayer\Desktop\ToDoList.Solution\ToDoList\obj\Debug\netcoreapp1.1\ToDoList.pdb
